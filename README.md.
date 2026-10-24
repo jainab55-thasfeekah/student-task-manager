@@ -1,0 +1,59 @@
+# 📚 Student Task Manager
+
+A beginner-friendly web application designed to help
+students organize their daily academic tasks and track
+their progress.
+
+## ✨ Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Automatically save tasks in the browser
+- Responsive layout for mobile and desktop
+- Simple and user-friendly interface
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Browser Local Storage
+
+## 🚀 How to Run
+
+1. Download or clone this repository.
+2. Open the `index.html` file in a web browser.
+3. Enter a task and click **Add Task**.
+4. Use the checkbox to mark tasks as completed.
+5. Click **Delete** to remove a task.
+
+No additional software or dependencies are required.
+
+## 📁 Project Structure
+
+student-task-manager/
+├── index.html
+└── README.md
+
+## 🎯 Project Objective
+
+The goal of this project is to practice front-end
+development, JavaScript event handling, DOM manipulation,
+and browser-based data storage.
+
+## 🔮 Future Improvements
+
+- Task deadlines and reminders
+- Task categories and priorities
+- Search and filter options
+- Separate views for pending and completed tasks
+
+## 👩‍💻 Author
+
+Created as a beginner web development project to learn
+coding and GitHub.
+
+## 📄 License
+
+This project is available for learning and educational use.
